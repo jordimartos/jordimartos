@@ -1,9 +1,14 @@
+
+---
+
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/><br>
  <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br>
  Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+ ---
  
 ### About Me:
 
@@ -49,11 +54,17 @@ My interests extend to training and development of digital solutions.
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
+---
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### Technologies and Tools:
 
@@ -87,6 +98,8 @@ My interests extend to training and development of digital solutions.
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/openssl/openssl-original.svg" title="OpenSSL"  alt="OpenSSL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tcpdump/tcpdump-original.svg" title="tcpdump"  alt="tcpdump" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell"  alt="PowerShell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/base64/base64-original.svg" title="base64"  alt="base64" width="55" height="55"/> |
 
+---
+
 ### Projects and XR Typologies:
 
 - PublicAudiovisual XR (Advice, Development and training).
@@ -96,6 +109,7 @@ My interests extend to training and development of digital solutions.
 - Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
 - Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
 
+---
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
