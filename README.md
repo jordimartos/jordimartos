@@ -55,6 +55,9 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 ###Frameworks/Libraries:
 | PyTorch | ASP.NET Core | TensorFlow | Unity | Unreal Engine | Xamarin | OpenCV | Bootstrap | Three.js | A-Frame |
 |----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/aspnetcore/aspnetcore-original.svg" title="ASP .NET Core"  alt="ASP .NET Core" width="55" height="55"/> |
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar"  alt="Quasar" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity"  alt="solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5"  alt="Html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3"  alt="Css3" width="55" height="55"/> |
 
 ###Data Tools:
 | Apache Hadoop | Hadoop MapReduce | Jupyter Notebooks | Spyder | MySQL | SAS | Power BI | D3.js | Azure | Google Cloud Platform | Git | GitHub | CUDA |
