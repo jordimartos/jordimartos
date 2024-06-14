@@ -77,7 +77,7 @@ My interests extend to training and development of digital solutions.
 ### OS:
 | Windows | Ubuntu | macOS | Android | Raspbian | Chrome OS | MS-DOS |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-original.svg" title="Windows"  alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/macos/macos-original.svg" title="macOS"  alt="macOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android"  alt="Android" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/raspbian/raspbian-original.svg" title="Raspbian"  alt="Rasbian" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googleos/googleos-original.svg" title="Google OS"  alt="Google OS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" title="MS-DOS"  alt="MS-DOS" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS"  alt="macOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android"  alt="Android" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/raspbian/raspbian-original.svg" title="Raspbian"  alt="Rasbian" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Google OS"  alt="Google OS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" title="MS-DOS"  alt="MS-DOS" width="55" height="55"/> |
 
 ### CTF Tools:
 | OpenSSL | tcpdump | PowerShell | base64 |
@@ -92,6 +92,10 @@ My interests extend to training and development of digital solutions.
 - Health and Medicine (Diagnosis and Evaluation, Therapy and Rehabilitation, Medical Training).
 - Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
 - Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
