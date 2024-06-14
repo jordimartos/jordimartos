@@ -2,7 +2,10 @@
 
 ### About Me:
 
-I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. My interests extend to training and development of digital solutions. Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
+I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
+My interests extend to training and development of digital solutions. 
+
+Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
 
 ### Mentoring and talks:
 
