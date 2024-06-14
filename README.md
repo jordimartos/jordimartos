@@ -1,9 +1,9 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/><br>
  <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/> 
 </p>
 
