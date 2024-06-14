@@ -45,7 +45,7 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 - Primera app VR educativa en catalan en "HackatH2On".
 
 ### Technologies and Tools:
-<div>
+
 
 ### Languages:
 | Python | C# | JavaScript | PHP | Q# | Solidity | HTML5 | CSS3 |
@@ -72,7 +72,7 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 ###CTF Tools:
 | OpenSSL | tcpdump | PowerShell | base64 |
 |----------|----------|----------|----------|----------|----------|----------|
-</div>
+
 
 ### Projects and XR Typologies:
 
