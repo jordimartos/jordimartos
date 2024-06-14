@@ -68,7 +68,6 @@ My interests extend to training and development of digital solutions.
 | <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" title="CSharp"  alt="CSharp" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar"  alt="Quasar" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5"  alt="Html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3"  alt="Css3" width="55" height="55"/> |
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
@@ -103,5 +102,9 @@ My interests extend to training and development of digital solutions.
 - Health and Medicine (Diagnosis and Evaluation, Therapy and Rehabilitation, Medical Training).
 - Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
 - Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
+</p>
 
 For more details, visit [Jordi Martos GitHub](https://github.com/jordimartos).
