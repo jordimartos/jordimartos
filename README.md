@@ -49,9 +49,6 @@ My interests extend to training and development of digital solutions.
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -70,7 +67,7 @@ My interests extend to training and development of digital solutions.
 ### Data Tools:
 | Hadoop | Jupyter | Spyder | MySQL | SAS | Power BI | D3.js | Azure | Google Cloud | Git | GitHub | CUDA |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop"  alt="Hadoop" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder"  alt="Spyder" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/sas-icon.svg" title="SAS"  alt="SAS" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI"  alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js"  alt="d3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"  alt="Google Cloud" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="55" height="55"/> | <img src="https://assets.nvidiagrid.net/ngc/logos/Cuda.png" title="CUDA"  alt="CUDA" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop"  alt="Hadoop" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder"  alt="Spyder" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/sas-icon.svg" title="SAS"  alt="SAS" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI"  alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js"  alt="d3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"  alt="Google Cloud" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="55" height="55"/> | <img src="https://www-igm.univ-mlv.fr/~dr/XPOSE2011/CUDA/img/nvidia_logo.svg" title="CUDA"  alt="CUDA" width="55" height="55"/> |
 
 ### Environments/Testing:
 | Visual Studio Code | Sublime Text | Atom | Android Studio | Xcode | Postman | GitHub Actions | Azure DevOps | JIRA | Trello | npm  Yarn |
@@ -96,6 +93,7 @@ My interests extend to training and development of digital solutions.
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 For more details, visit [Jordi Martos GitHub](https://github.com/jordimartos).
