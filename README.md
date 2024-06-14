@@ -50,18 +50,23 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 ### Languages:
 | Python | C# | JavaScript | PHP | Q# | Solidity | HTML/CSS |
 |----------|----------|----------|----------|----------|----------|----------|
+
 ###Frameworks/Libraries:
 | PyTorch | ASP.NET Core | TensorFlow | Unity | Unreal Engine | Xamarin | OpenCV | Bootstrap | Three.js | A-Frame |
 |----------|----------|----------|----------|----------|----------|----------|
+
 ###Data Tools:
 | Apache Hadoop | Hadoop MapReduce | Jupyter Notebooks | Spyder | MySQL | SAS | Power BI | D3.js | Azure | Google Cloud Platform | Git | GitHub | CUDA |
 |----------|----------|----------|----------|----------|----------|----------|
+
 ###Environments/Testing:
 | Visual Studio Code | Sublime Text | Atom | Android Studio | Xcode | Postman | GitHub Actions | Azure DevOps | JIRA | Trello | npm  Yarn |
 |----------|----------|----------|----------|----------|----------|----------|
+
 ###OS:
 | Windows | Ubuntu | macOS | Android | Raspbian | Chrome OS | MS-DOS |
 |----------|----------|----------|----------|----------|----------|----------|
+
 ###CTF Tools:
 | OpenSSL | tcpdump | PowerShell | base64 |
 |----------|----------|----------|----------|----------|----------|----------|
