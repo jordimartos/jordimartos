@@ -1,20 +1,11 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/><br>
- <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/> 
-</p>
-
-
-
-
-
-
 Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/><br><br>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/><br><br>
+ <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br><br>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ### About Me:
 
