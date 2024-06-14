@@ -50,7 +50,7 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 ### Languages:
 | Python | C# | JavaScript | PHP | Q# | Solidity | HTML/CSS |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" title="CSharp"  alt="CSharp" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" title="CSharp"  alt="CSharp" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/php-icon.svg" title="PHP"  alt="PHP" width="55" height="55"/> |
 
 ###Frameworks/Libraries:
 | PyTorch | ASP.NET Core | TensorFlow | Unity | Unreal Engine | Xamarin | OpenCV | Bootstrap | Three.js | A-Frame |
