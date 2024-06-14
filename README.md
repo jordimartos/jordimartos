@@ -6,7 +6,10 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 
 <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/> 
