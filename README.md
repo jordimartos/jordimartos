@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### About Me:
 
 I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. My interests extend to training and development of digital solutions. Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
