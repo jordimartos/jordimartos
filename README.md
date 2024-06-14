@@ -49,6 +49,9 @@ My interests extend to training and development of digital solutions.
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -93,9 +96,6 @@ My interests extend to training and development of digital solutions.
 - Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
 - Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
