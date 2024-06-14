@@ -1,18 +1,14 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/><br><br>
- Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
-</p>
-<p align="center">
+ Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.<br><br>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/><br><br>
  <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br><br>
+ <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/>
 </p>
-
+ 
 ### About Me:
 
 I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
 My interests extend to training and development of digital solutions. 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="PublicAudiovisual XR"  alt="PublicAudiovisual XR"/> 
 
@@ -53,6 +49,7 @@ My interests extend to training and development of digital solutions.
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Technologies and Tools:
 
