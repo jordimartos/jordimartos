@@ -50,7 +50,7 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 ### Languages:
 | Python | C# | JavaScript | PHP | Q# | Solidity | HTML/CSS |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="Python" width="55" height="55"/> |
 
 ###Frameworks/Libraries:
 | PyTorch | ASP.NET Core | TensorFlow | Unity | Unreal Engine | Xamarin | OpenCV | Bootstrap | Three.js | A-Frame |
