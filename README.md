@@ -1,3 +1,5 @@
+Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
@@ -5,7 +7,7 @@
 I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
 My interests extend to training and development of digital solutions. 
 
-Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
+<img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="Jordi Martos"  alt="Jordi Martos"/> 
 
 ### Mentoring and talks:
 
@@ -44,7 +46,6 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
-<img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="Jordi Martos"  alt="Jordi Martos"/> 
 
 ### Technologies and Tools:
 
