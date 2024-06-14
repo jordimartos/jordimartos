@@ -111,6 +111,18 @@ My interests extend to training and development of digital solutions.
 
 ---
 
+## Github Stats ⚡
+
+<p align=center>
+  <div align=center>
+      <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ironcg20&theme=react&border=61dafb&hide_border=true" alt="dev"/>
+      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironcg20&theme=react&layout=compact&langs_count=20&hide_title=true"/>
+  </div>
+  <div align="center">
+     
+  </div> 
+</p>
+
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
