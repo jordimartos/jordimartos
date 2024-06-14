@@ -56,6 +56,8 @@ My interests extend to training and development of digital solutions.
 
 ---
 
+## Github Stats 00⚡
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -111,17 +113,7 @@ My interests extend to training and development of digital solutions.
 
 ---
 
-## Github Stats ⚡
-
-<p align=center>
-  <div align=center>
-      <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jordimartos&theme=react&border=61dafb&hide_border=true" alt="dev"/>
-      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&theme=react&layout=compact&langs_count=20&hide_title=true"/>
-  </div>
-  <div align="center">
-     
-  </div> 
-</p>
+## Github Stats 01⚡
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
