@@ -72,6 +72,7 @@ Currently, I am developing an online academy. In my free time, I enjoy being an 
 ###CTF Tools:
 | OpenSSL | tcpdump | PowerShell | base64 |
 |----------|----------|----------|----------|----------|----------|----------|
+</div>
 
 ### Projects and XR Typologies:
 
