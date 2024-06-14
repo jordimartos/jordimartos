@@ -6,10 +6,7 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+
 
 
 <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/> 
@@ -69,6 +66,11 @@ My interests extend to training and development of digital solutions.
 | Python | C# | JavaScript | PHP | Q# | Solidity | HTML5 | CSS3 |
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" title="CSharp"  alt="CSharp" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar"  alt="Quasar" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5"  alt="Html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3"  alt="Css3" width="55" height="55"/> |
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 ### Frameworks/Libraries:
 | PyTorch | ASP.NET | TensorFlow | Unity | Unreal | Xamarin | OpenCV | Bootstrap | Three.js | A-Frame | WebXR |
