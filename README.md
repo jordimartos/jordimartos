@@ -88,25 +88,16 @@
 
 ---
 
-
-
----
-
-<p align="center">
- 
- <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br>
- Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
- ---
- 
-### About Me:
-
 I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
 My interests extend to training and development of digital solutions. 
 
 <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="PublicAudiovisual XR"  alt="PublicAudiovisual XR"/> 
+<details>
+<summary>
+ 
+ ### About Me:
+ 
+ </summary>
 
 ### Mentoring and talks:
 
@@ -145,9 +136,19 @@ My interests extend to training and development of digital solutions.
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
+ </details>
+
 ---
 
+<p align="center">
+ 
+ <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br>
+ Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
+ ---
+ 
 
 ---
 
