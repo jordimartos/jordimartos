@@ -1,4 +1,31 @@
 <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=blueviolet" alt=""/>
+</P>
+
+---
+
+<details>
+<summary>
+ 
+ ## Github Stats⚡
+ 
+ </summary>
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordimartos&theme=synthwave"/><br>
+ <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=synthwave&hide_border=true&border_radius=5&card_width=800"><br>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=synthwave">
+ <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=synthwave"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordimartos&theme=xcode"/><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jordimartos&theme=dracula"/> 
+</P>
+
+</details>
+
+
+
+---
+
+<p align="center">
  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"/>
@@ -53,7 +80,7 @@
 ---
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=jordimartos&style=for-the-badge&color=orange" alt=""/><br>
+ 
  <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br>
  Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
@@ -107,15 +134,7 @@ My interests extend to training and development of digital solutions.
 
 ---
 
-## Github Stats 00⚡
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jordimartos&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -164,11 +183,6 @@ My interests extend to training and development of digital solutions.
 
 ---
 
-## Github Stats 01⚡
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
 
 For more details, visit [Jordi Martos GitHub](https://github.com/jordimartos).
