@@ -80,9 +80,9 @@
 <details>
 <summary>
  
- ### About Me:
+### About Me:
  
- </summary>
+</summary>
 
 I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
 My interests extend to training and development of digital solutions. 
@@ -126,7 +126,7 @@ My interests extend to training and development of digital solutions.
 - Primer taller VR en "Orgatecnos"
 - Primera app VR educativa en catalan en "HackatH2On".
 
- </details>
+</details>
 
 ---
 
@@ -149,8 +149,13 @@ My interests extend to training and development of digital solutions.
 
 ---
 
+<details>
+<summary>
+ 
 ### Technologies and Tools:
 
+</summary>
+ 
 ### Languages:
 | Python | C# | JavaScript | PHP | Q# | Solidity | HTML5 | CSS3 |
 |----------|----------|----------|----------|----------|----------|----------|----------|
@@ -181,10 +186,17 @@ My interests extend to training and development of digital solutions.
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/openssl/openssl-original.svg" title="OpenSSL"  alt="OpenSSL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tcpdump/tcpdump-original.svg" title="tcpdump"  alt="tcpdump" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell"  alt="PowerShell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/base64/base64-original.svg" title="base64"  alt="base64" width="55" height="55"/> |
 
+</details>
+
 ---
 
+<details>
+<summary>
+ 
 ### Projects and XR Typologies:
 
+</summary>
+ 
 - PublicAudiovisual XR (Advice, Development and training).
 - QXR20.academy (Storytelling, Audiovisual, XR, IoT).
 - Education and Training (Educational Laboratories and Simulations, Professional and Technical Training, Classrooms and Virtual Learning Environments).
@@ -192,8 +204,8 @@ My interests extend to training and development of digital solutions.
 - Architecture and Engineering (Design and Prototyping, Simulation and Planning, Visualization and Presentation).
 - Art and Culture (Virtual Exhibitions and Museums, Interactive Artistic Experiences, Restoration and Conservation).
 
+</details>
+ 
 ---
-
-
 
 For more details, visit [Jordi Martos GitHub](https://github.com/jordimartos).
