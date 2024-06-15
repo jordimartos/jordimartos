@@ -96,18 +96,17 @@
 
 ---
 
-
-
-I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
-My interests extend to training and development of digital solutions. 
-
-<img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="PublicAudiovisual XR"  alt="PublicAudiovisual XR"/> 
 <details>
 <summary>
  
  ### About Me:
  
  </summary>
+
+I am a passionate researcher in the world of Extended Reality with experience in development, focusing on user experience and the development of digital twins. 
+My interests extend to training and development of digital solutions. 
+
+<img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="PublicAudiovisual XR"  alt="PublicAudiovisual XR"/> 
 
 ### Mentoring and talks:
 
