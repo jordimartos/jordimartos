@@ -80,7 +80,7 @@
 <details>
 <summary>
  
-### About Me:
+### About Me: 🫴
  
 </summary>
 
@@ -89,7 +89,7 @@ My interests extend to training and development of digital solutions.
 
 <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DocsU_GarageStories_CCCB.gif" title="PublicAudiovisual XR"  alt="PublicAudiovisual XR"/> 
 
-### Mentoring and talks:
+### Mentoring and talks: 🧠
 
 - 4th International Conference on Virtual Reality
 - HealthTech 2030
@@ -152,7 +152,7 @@ My interests extend to training and development of digital solutions.
 <details>
 <summary>
  
-### Technologies and Tools:
+### Technologies and Tools: 🥷
 
 </summary>
  
@@ -193,7 +193,7 @@ My interests extend to training and development of digital solutions.
 <details>
 <summary>
  
-### Projects and XR Typologies:
+### Projects and XR Typologies: 👁️‍🗨️
 
 </summary>
  
