@@ -80,25 +80,6 @@
 <details>
 <summary>
  
- ## Github Stats⚡
- 
- </summary>
-
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordimartos&theme=synthwave"/><br>
- <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=synthwave&hide_border=true&border_radius=5&card_width=800"><br>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=synthwave">
- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=synthwave"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordimartos&theme=xcode"/><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jordimartos&theme=dracula"/> 
-</P>
-
-</details>
-
----
-
-<details>
-<summary>
- 
  ### About Me:
  
  </summary>
@@ -149,10 +130,22 @@ My interests extend to training and development of digital solutions.
 
 ---
 
-
-
- ---
+<details>
+<summary>
  
+ ## Github Stats⚡
+ 
+ </summary>
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordimartos&theme=synthwave"/><br>
+ <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=synthwave&hide_border=true&border_radius=5&card_width=800"><br>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=synthwave">
+ <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=synthwave"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordimartos&theme=xcode"/><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jordimartos&theme=dracula"/> 
+</P>
+
+</details>
 
 ---
 
