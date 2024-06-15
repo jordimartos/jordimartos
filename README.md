@@ -4,25 +4,6 @@
 
 ---
 
-<details>
-<summary>
- 
- ## Github Stats⚡
- 
- </summary>
-
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordimartos&theme=synthwave"/><br>
- <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=synthwave&hide_border=true&border_radius=5&card_width=800"><br>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=synthwave">
- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=synthwave"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordimartos&theme=xcode"/><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jordimartos&theme=dracula"/> 
-</P>
-
-</details>
-
----
-
 <p align="center">
  <br>
  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
@@ -85,6 +66,29 @@
  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 </p>
+
+---
+
+<details>
+<summary>
+ 
+ ## Github Stats⚡
+ 
+ </summary>
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordimartos&theme=synthwave"/><br>
+ <img width="800" height="220" src="https://streak-stats.demolab.com?user=jordimartos&theme=synthwave&hide_border=true&border_radius=5&card_width=800"><br>  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jordimartos&show_icons=true&theme=synthwave">
+ <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordimartos&size_weight=0.0005&count_weight=0.3&layout=compact&theme=synthwave"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordimartos&theme=xcode"/><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jordimartos&theme=dracula"/> 
+</P>
+
+</details>
+
+---
+
+
 
 ---
 
