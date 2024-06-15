@@ -218,7 +218,7 @@ My interests extend to training and development of digital solutions.
  
 ---
 
-<img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/TexturaInterna.gif"/><img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/CurveImage.gif"/><img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/TexturaExterna.gif"/><img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/BotonGeometria.gif"/>
+<img width="150" height="75" src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/TexturaInterna.gif"/><img width="150" height="75" src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/CurveImage.gif"/><img width="150" height="75" src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/TexturaExterna.gif"/><img width="150" height="75" src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/BotonGeometria.gif"/>
 
 ---
 
