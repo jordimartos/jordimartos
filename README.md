@@ -6,8 +6,6 @@
 ---
 
 <p align="center">
- <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br>
- Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
@@ -74,6 +72,13 @@
  <br>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+ <img src="https://github.com/PublicAudiovisualXR/Site_PublicAudiovisual_XR/blob/main/assets/Images/Gif/DemoQXR20_1.gif" title="Jordi Martos"  alt="Jordi Martos"/><br>
+ Currently, I am developing an online academy. In my free time, I enjoy being an urban artist.
 </p>
 
 ---
