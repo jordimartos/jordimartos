@@ -227,4 +227,4 @@ My interests extend to training and development of digital solutions.
 
 ---
 
-For more details, visit [Jordi Martos GitHub](https://github.com/jordimartos).
+For more details, visit [PublicAudiovisual XR](https://publicaudiovisual.com/).
